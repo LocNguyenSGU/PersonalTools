@@ -1,0 +1,150 @@
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [IELTS::Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [IELTS::Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [IELTS::Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [IELTS::Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [IELTS::Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [IELTS::Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [IELTS::Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+INFO:root:✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+INFO:root:✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+INFO:root:✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
