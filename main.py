@@ -263,8 +263,13 @@ def add_note(front, back, example, deck, topic_tag, audio_path=None, image_path=
 # Cố định tên deck
 import logging
 
-# Cấu hình logging
-logging.basicConfig(filename="import_log.txt", level=logging.INFO)
+# Cấu hình logging để in ra console với thời gian
+logging.basicConfig(
+    filename="import_log.txt",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
+)
 
 def create_deck(deck_name):
     response = requests.post("http://localhost:8765", json={
@@ -294,6 +299,7 @@ def import_txt_to_anki(txt_file):
                 # Thêm thẻ vào deck tương ứng
                 audio_path = generate_audio(en)
                 result = add_note(vi, en, example, topic, topic, audio_path, None)  # Tạo thẻ cho từng deck riêng biệt
+                print(f"✅ Đã thêm [{topic}] vào deck [{topic}]: {vi} - {en}")
                 logging.info(f"✅ Đã thêm [{topic}] vào deck [{topic}]: {vi} - {en}")
             else:
                 print(f"❌ Lỗi format dòng: {line.strip()}")

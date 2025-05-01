@@ -148,3 +148,267 @@ INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ 
 INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
 INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
 INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+INFO:root:✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+INFO:root:✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+INFO:root:✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+INFO:root:✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+INFO:root:✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+INFO:root:✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+INFO:root:✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+INFO:root:✅ Đã thêm [Education / Society] vào deck [Education / Society]: Được tranh luận từ lâu - has long been debated
+INFO:root:✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+INFO:root:✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+INFO:root:✅ Đã thêm [Education / Society] vào deck [Education / Society]: Cần thiết để hiểu - essential for making sense of
+INFO:root:✅ Đã thêm [History / Education] vào deck [History / Education]: Không thể thay đổi được - cannot be changed
+INFO:root:✅ Đã thêm [Technology / Society] vào deck [Technology / Society]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+INFO:root:✅ Đã thêm [Technology / Education] vào deck [Technology / Education]: Phát triển nhanh chóng - rapidly advancing fields
+INFO:root:✅ Đã thêm [History / Society] vào deck [History / Society]: Không đầy đủ hoặc thiên vị - biased or incomplete
+INFO:root:✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+INFO:root:✅ Đã thêm [Global Issues / Politics] vào deck [Global Issues / Politics]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+INFO:root:✅ Đã thêm [Politics / Global Issues] vào deck [Politics / Global Issues]: Không thể hiểu đầy đủ - cannot be fully understood
+INFO:root:✅ Đã thêm [Education / Leadership] vào deck [Education / Leadership]: Những bài học giá trị - valuable lessons
+INFO:root:✅ Đã thêm [Global Issues / Government] vào deck [Global Issues / Government]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+INFO:root:✅ Đã thêm [Global Issues / History] vào deck [Global Issues / History]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+INFO:root:✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+INFO:root:✅ Đã thêm [Leadership / Society] vào deck [Leadership / Society]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-01 14:20:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-01 14:20:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Education / Society] vào deck [Education / Society]: Được tranh luận từ lâu - has long been debated
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Education / Society] vào deck [Education / Society]: Cần thiết để hiểu - essential for making sense of
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [History / Education] vào deck [History / Education]: Không thể thay đổi được - cannot be changed
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Technology / Society] vào deck [Technology / Society]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Technology / Education] vào deck [Technology / Education]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [History / Society] vào deck [History / Society]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Global Issues / Politics] vào deck [Global Issues / Politics]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Politics / Global Issues] vào deck [Politics / Global Issues]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-01 14:20:45 - INFO - ✅ Đã thêm [Education / Leadership] vào deck [Education / Leadership]: Những bài học giá trị - valuable lessons
+2025-05-01 14:20:46 - INFO - ✅ Đã thêm [Global Issues / Government] vào deck [Global Issues / Government]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-01 14:20:46 - INFO - ✅ Đã thêm [Global Issues / History] vào deck [Global Issues / History]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-01 14:20:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-01 14:20:46 - INFO - ✅ Đã thêm [Leadership / Society] vào deck [Leadership / Society]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-01 14:20:46 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-01 14:20:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-01 14:20:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-01 14:20:48 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-01 14:20:48 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-01 14:20:48 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-01 14:20:49 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-01 14:20:49 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-01 14:20:50 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-01 14:20:50 - INFO - ✅ Đã thêm [Transport.] vào deck [Transport.]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-01 14:20:50 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-01 14:20:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-01 14:20:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-01 14:20:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-01 14:20:52 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-01 14:20:52 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-01 14:20:53 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-01 14:20:53 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-01 14:20:53 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-01 14:20:54 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-01 14:23:33 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-01 14:23:33 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-01 14:23:34 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Education / Society] vào deck [Education / Society]: Được tranh luận từ lâu - has long been debated
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-01 14:23:35 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [History / Education] vào deck [History / Education]: Không thể thay đổi được - cannot be changed
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-01 14:23:36 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-01 14:23:37 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-01 14:25:12 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-01 14:25:12 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-01 14:25:13 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Được tranh luận từ lâu - has long been debated
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-01 14:25:14 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [History] vào deck [History]: Không thể thay đổi được - cannot be changed
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-01 14:25:15 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
